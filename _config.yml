@@ -22,7 +22,7 @@ repository               : "andrewlrocco/personal-portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Andrew Rocco" 
   bio              : "Hardware Engineer"
   location         : "Seattle, Washington"
