@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-permalink: /portfolio/
+permalink: /projects/
 layout: single
 author_profile: true
 ---
@@ -9,7 +9,7 @@ Below are a few of the projects I've worked on, covering both academic and perso
 
 ---
 
-### 🚀 Wireless Energy Harvesting Sensor Node
+### 🚀 Rigatoni - Electrical Racing Kart
 A low-power IoT sensor node powered by solar and RF energy, featuring:
 - Custom PCB with LoRa communication
 - Supercapacitor-based energy storage
