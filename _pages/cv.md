@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2023
+* B.S. in Electrical Engineering, Georgia Institute of Technology, 2022
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Boeing, Design Engineer
+  * April 2024 - Present
+  * Lead cabin systems electrical design of 6 new 787 configurations
+  * Create schematics for unique customer selections, accounting for circuit protection, signal integrity, EMI, power quality
 
 * Fall 2015: Research Assistant
   * GitHub University
