@@ -11,7 +11,7 @@ Below are a few of the projects I've worked on, covering both academic and perso
 
 ---
 
-### 🚀 [Rigatoni - Electric Racing Kart](/projects/ev_kart/) 
+### 🚀 [Rigatoni - Electric Racing Kart](/projects/ev-kart/) 
 A low-power IoT sensor node powered by solar and RF energy, featuring:
 - Custom PCB with LoRa communication
 - Supercapacitor-based energy storage
