@@ -1,8 +1,8 @@
 ---
 title: "Electric Racing Kart"
-collection: portfolio
-permalink: /portfolio/ev-kart/
-date: 2024-05-01
+collection: projects
+permalink: /projects/ev-kart/
+date: 2025-05-02
 excerpt: "A go-kart-sized electric race vehicle with custom PCB-based motor control and telemetry."
 layout: single
 ---

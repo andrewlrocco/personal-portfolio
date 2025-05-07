@@ -1,9 +1,12 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: single
+layout: collection
+collection: projects
 author_profile: true
 ---
+
+A selection of engineering projects I've worked on. Click any project for more details.
 
 Below are a few of the projects I've worked on, covering both academic and personal work.
 
