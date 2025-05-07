@@ -22,9 +22,9 @@ repository               : "andrewlrocco/personal-portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Andrew Rocco" 
-  bio              : "Embedded Systems & Hardware Engineer\nPCB Design • Firmware • Analog & Digital Circuit Design • Wireless Protocols • Validation & Test"
+  bio              : "Embedded Systems & Hardware Engineer" #PCB Design • Firmware • Analog & Digital Circuit Design • Wireless Protocols • Validation & Test
   location         : "Seattle, Washington"
   employer         : "Georgia Institute of Technology"
   uri              : # URL

@@ -1,5 +1,5 @@
 ---
-title: "Electric Racing Kart"
+title: "Rigatoni - Electric Racing Kart"
 collection: projects
 permalink: /projects/ev-kart/
 date: 2025-05-02
