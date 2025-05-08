@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Welcome!"
 layout: single
 author_profile: true
 permalink: /
@@ -8,27 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Andrew Rocco — an embedded systems and hardware engineer with a strong foundation in both theoretical design and hands-on implementation.
+Hi, I’m Andrew Rocco — an embedded systems and hardware engineer with experience across research, product development, and RF design. I specialize in developing robust hardware-software solutions and am passionate about building systems that are reliable, scalable, and production-ready.
 
-I'm currently working at [Your Current Company] as an embedded systems engineer, where I focus on developing reliable low-level firmware and hardware for real-world applications. Previously, I completed three internships that helped shape my practical engineering skills and industry perspective:
-- At [Internship Company 1], I worked on [brief focus area, e.g., "PCB layout and low-power circuit design"].
-- At [Internship Company 2], I gained experience in [e.g., "wireless sensor networks and test automation"].
-- At [Internship Company 3], I contributed to [e.g., "firmware development for embedded control systems"].
+I'm currently working as an Design Engineer at Boeing, where I contribute to custom system designs for 787 customers. My previous internships include:
 
-My core expertise lies in embedded systems and hardware engineering — specifically:
-- **PCB design**
-- **Firmware development** (bare-metal and RTOS-based)
+- **R&D Engineer at Siemens**, where I worked on embedded solutions for industrial systems
+- **Product Engineer at Texas Instruments**, supporting high-volume silicon validation and test automation
+- **RF Engineer at Atlanta Micro**, developing and testing high-frequency analog front ends
+
+My technical background includes:
+
+- **Embedded firmware development** (bare-metal and RTOS-based)
+- **PCB design** and hardware bring-up
 - **Analog and digital circuit design**
-- **Wireless protocols** such as BLE, LoRa, and UART
-- **Validation and test equipment** (oscilloscopes, logic analyzers, functional test setups)
+- **Wireless protocols** including BLE, LoRa, and UART/SPI/CAN
+- **Validation and test** using oscilloscopes, logic analyzers, and automated test setups
 
-I'm passionate about building systems from the ground up — from initial schematic capture to firmware bring-up and in-system validation. That said, I’m also open to roles across the broader field of electrical and computer engineering, including signal processing, robotics, and systems integration.
+I bring a systems-level approach to engineering — from schematic to firmware to functional test — and I’m equally comfortable in the lab or in a debugging session. While my focus is embedded systems and hardware engineering, I’m open to roles across the broader field of **electrical and computer engineering**, including signal processing, robotics, or systems integration.
 
-I hold a **B.S. in Electrical Engineering** with a **minor in Robotics**, and an **M.S. in Electrical and Computer Engineering**, both from **Georgia Tech**. My academic and project experience span low-power embedded platforms, control systems, and hardware-software co-design.
+Academically, I hold both a **B.S. in Electrical Engineering** (with a **Minor in Robotics**) and an **M.S. in Electrical and Computer Engineering**, both from **Georgia Tech**. My education and experience span low-power design, embedded control systems, and high-frequency hardware.
 
-Feel free to explore the rest of my site:
-- Visit the [**Projects**](/projects/) page for a detailed look at some of the work I’ve done.
-- View my [**Resume**](/cv/) to learn more about my background and technical experience.
-- Head to [**Contact**](/contact/) if you'd like to reach out regarding opportunities or collaborations.
+To learn more:
 
-Thanks for visiting — I’m always excited to connect with others who are passionate about building, debugging, and delivering great hardware systems.
+- Visit the [**Projects**](/projects/) page to see examples of my work
+- View my [**Resume**](/cv/) for more detail on my experience and skills
+- Use the [**Contact**](/contact/) page to get in touch
+
+I’m currently open to new opportunities and always happy to connect with teams building great hardware.
