@@ -1,7 +1,11 @@
+---
 title: "Welcome"
 layout: home
 author_profile: true
 permalink: /
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Hi, I’m Andrew Rocco — an embedded systems and hardware engineer with a strong foundation in both theoretical design and hands-on implementation.
