@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-layout: home
+layout: single
 author_profile: true
 permalink: /
 redirect_from: 
